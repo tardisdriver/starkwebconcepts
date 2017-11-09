@@ -5,7 +5,7 @@
         "stack": "jQuery, AJAX, HTML, CSS",
         "gitLink": "https://github.com/tardisdriver/dinner_and_a_beer",
         "pubLink": "http://bartender-sarah-24300.netlify.com/",
-        "descr": "NODE: Please bear in mind that I am using the free tiers of the APIs, so if you are not having success loading the results, please try again later as the request limit may have been reached. Dinner and a Beer is a web app that uses the Edamam API and the BreweryDB API to call a random meal recipe based on the user's selection, then pairs it with a matching beer."
+        "descr": "NOTE: Please bear in mind that I am using the free tiers of the APIs, so if you are not having success loading the results, please try again later as the request limit may have been reached. Dinner and a Beer is a web app that uses the Edamam API and the BreweryDB API to call a random meal recipe based on the user's selection, then pairs it with a matching beer."
     },
     {
         "img": "/images/tbuddy.png",
