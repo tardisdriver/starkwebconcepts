@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 import './project-item.css';
 
@@ -8,7 +7,7 @@ export default function ProjectItem(props) {
         <div className='project-item'>
             <a className='proj-link' href={props.pubLink} target='_blank'>
                 <h2 className='proj-heading'>{props.title}</h2>
-                <img className='proj-image' src={props.img} />
+                <img className='proj-image' src={props.img} alt={props.title} />
                 <p className='stack'>
                     <span>Stack used:</span>
                     <span>{props.stack}</span>
