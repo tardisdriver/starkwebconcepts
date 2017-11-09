@@ -58,7 +58,7 @@ export default function About(props) {
             <h3 className='date'>2008 – 2012</h3>
             <h3 className='job'>Parker University  --  Academic Lab Manager	</h3>
             <ul className='bullet-list'>
-                <li className='bullet-list-item' className='bullet-list-item'>Assisted professors with teaching of microbiology and anatomy labs, and tutoring students.</li>
+                <li className='bullet-list-item'>Assisted professors with teaching of microbiology and anatomy labs, and tutoring students.</li>
                 <li className='bullet-list-item'>Responsible for setting up microbiology, chemistry, organic chemistry, physiology, and anatomy labs.  Included mixing and dilution of chemicals, inoculation and cultivation of bacterial specimens, set-up and testing of BIOPAC physiology computer equipment, and setting up anatomy models for classes.</li>
                 <li className='bullet-list-item'>Involved in research for a study (A study of the effectiveness of table disinfection protocols in the clinics of a chiropractic college) involving the spread of S. aureus, E. coli, and MRSA in chiropractic offices that was published in <i>Journal of Chiropractic Education</i>.  2010;24(1):109.</li>
                 <li className='bullet-list-item'>Responsible for replenishing laboratory stocks while adhering to a restrictive budget.</li>
