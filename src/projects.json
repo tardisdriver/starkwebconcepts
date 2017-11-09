@@ -13,7 +13,7 @@
         "stack": "jQuery, HTML, CSS, MongoDB, Bootstrap",
         "gitLink": "https://github.com/tardisdriver/travel_capstone",
         "pubLink": "https://afternoon-badlands-72160.herokuapp.com/",
-        "descr": "Travel Buddy is a web app that assists users in budgeting travel expenditures. More budgetary items are planned for the future; currently users can track airfare and lodging costs. For a demo, type in the username 'Arya'."
+        "descr": "Travel Buddy is a web app that assists users in budgeting travel expenditures. This is a proof-of-concept that initially utilizes local storage on the user's browser, then stores the data in MongoDB if the user sets a username.  More budgetary items are planned for the future; currently users can track airfare and lodging costs. For a demo, type in the username 'Arya'."
     },
     {
         "img": "/images/txcomp.png",
