@@ -1,0 +1,25 @@
+[
+    {
+        "img": "/images/danb.png",
+        "title": "Dinner and a Beer",
+        "stack": "jQuery, AJAX, HTML, CSS",
+        "gitLink": "https://github.com/tardisdriver/dinner_and_a_beer",
+        "pubLink": "http://bartender-sarah-24300.netlify.com/",
+        "descr": "NODE: Please bear in mind that I am using the free tiers of the APIs, so if you are not having success loading the results, please try again later as the request limit may have been reached. Dinner and a Beer is a web app that uses the Edamam API and the BreweryDB API to call a random meal recipe based on the user's selection, then pairs it with a matching beer."
+    },
+    {
+        "img": "/images/tbuddy.png",
+        "title": "Travel Buddy",
+        "stack": "jQuery, HTML, CSS, MongoDB, Bootstrap",
+        "gitLink": "https://github.com/tardisdriver/travel_capstone",
+        "pubLink": "https://afternoon-badlands-72160.herokuapp.com/",
+        "descr": "Travel Buddy is a web app that assists users in budgeting travel expenditures. More budgetary items are planned for the future; currently users can track airfare and lodging costs. For a demo, type in the username 'Arya'."
+    },
+    {
+        "img": "/images/txcomp.png",
+        "title": "The Texas Companion",
+        "stack": "Pure HTML and CSS",
+        "pubLink": "http://texascompanion.org/",
+        "descr": "I built the Texas Companion website for a fun side-project by some friends. It is the main page for the humor podcast of the same name."
+    }
+]

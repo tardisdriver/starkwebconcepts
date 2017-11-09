@@ -1,0 +1,57 @@
+.main-box {
+    border: 1px solid blue;
+    border-radius: 7px;
+    font-family: 'Ubuntu', sans-serif;
+    min-width: 250px; 
+    height: 85px;
+    color: white;
+    margin-top: 25px;
+    margin-left: 30px;
+    background-color:rgba(0, 0, 0, 0.65);
+}
+
+ .main-box-head {
+    font-size: 30px;
+    display: block;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.Portfolio, .About, .Contact {
+    visibility: hidden;
+}
+
+a {
+    height: 120px;
+}
+
+
+@media only screen and (min-device-width: 700px) {
+    .main-box {
+        display: inline-block;
+        margin-right: 20px;
+        width: 250px; 
+        min-height: 300px;
+    }
+
+    .Portfolio, .About, .Contact {
+        display:block;
+        visibility:visible;
+        width: 200px;
+        height: 200px;
+        margin-left:27px;
+        margin-right:25px;
+    }
+
+    .Portfolio {
+        border-radius: 50%;
+    }
+
+    a {
+        height: 400px;
+    }
+
+    
+}

@@ -1,0 +1,25 @@
+/* @keyframes panning {
+  100% {
+    background-position: top;
+  }
+   0% {
+    background-position: bottom;
+   }
+} */
+
+.test {
+  height: 100vh;
+  width: auto;
+  background-size: cover; 
+  animation: panning 60s infinite linear;
+  background: 
+  linear-gradient(
+    rgba(203, 1, 1, 0), 
+    rgba(132, 1, 1, 0.65),
+    rgba(0, 0, 0, 1)
+  ),
+  url('/images/background.jpg');
+  padding: 30px;
+}
+
+

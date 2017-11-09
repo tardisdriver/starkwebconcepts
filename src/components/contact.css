@@ -1,0 +1,29 @@
+#contact {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 20px;
+    padding: 10px 0 10px 15px;
+    height: auto;;
+    border: 2px double blue;
+    border-radius: 7px;
+    background-color:rgba(0, 0, 0, 0.65);   
+}
+
+#contact-head {
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+@media only screen and (min-device-width: 800px) {
+    #contact-head {
+        font-size: 30px;
+    }
+
+    #social {
+        margin-left: 70px;
+    }
+}
+
