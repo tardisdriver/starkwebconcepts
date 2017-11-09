@@ -8,7 +8,7 @@ export default function About(props) {
         <div id='about'>
             <Back />
             <h1 id='about-head'> About</h1 >
-            <p className='my-summary'>After my time in the US Army, I took the technical skills from my service to work for the Dell help desk via a contract through Stream International. After being laid off from that position, I sought higher education and turned to my second love: science. I recieved a Bachelor's of Science in General Biology in 2006. After some time working in that field, I decided that I missed tech and found my way back thanks to my current employer, Appspace.</p>
+            <p className='my-summary'>After my time in the US Army, I took the technical skills from my service to work for the Dell help desk via a contract through Stream International. After being laid off from that position, I sought higher education and turned to my second love: science. I recieved a Bachelor's of Science in General Biology in 2006. After some time working in that field, I decided that I missed tech and found my way working for first a digital documentation specialist, then as a technical trainer for a software company.</p>
             <p className='my-summary'> Currently, I am seeking to take my hobby of web design to a professional level.  To that end, I have been attending the Thinkful Full Stack Web Development bootcamp and expect to graduate in November or December of this year.</p>
             <h2 className='summary'>Skills Summary</h2>
             <ul className='bullet-list'>
